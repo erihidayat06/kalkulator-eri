@@ -1,0 +1,23 @@
+body {
+  background-color: #92fa6f;
+}
+
+td {
+  padding: 20px;
+}
+
+.form {
+  padding: 200px;
+}
+
+table {
+  border: solid;
+  background-color: aqua;
+}
+
+#jumbotron {
+  padding: 300px;
+  text-align: center;
+}
+
+
